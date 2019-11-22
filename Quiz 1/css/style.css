@@ -1,0 +1,82 @@
+div.header{
+	background-color: #0f0c0c;
+	height: 90px;
+}
+
+span{
+	color: white;
+	font-family: Times New Roman;
+	font-size: 30px;
+	font-weight: bold;
+	width: 130px;
+	height: 130px;
+}
+#logo{
+	float: left;
+	height: 85px;
+	width: 85px;
+	margin-left: 55px;
+}
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5c0f0f;
+}
+
+li {
+  float: left;
+  margin-left: 55px; 
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.writing{
+	background-color: #8f7c75;
+	height: 450px;
+}
+#eifel{
+	height: 250px;
+	width: 580px;
+	border: 2px solid white;
+	float: right;
+	margin: 50px 0px 0px 10px; 
+}
+button#readMore{
+	position: relative;
+	left: 200px;
+	background-color: black;
+	padding: 5px;
+	height: 45px;
+	color: white;
+} 
+.nature{
+	display: block;
+	width: 130px;
+	height: 130px;
+	border: solid white;
+	margin: 50px auto;
+}
+.right-border{
+	border-right: 3px solid white;
+}
+.column{
+	background-color: #5c0f0f;
+	color: white;
+}
+footer{
+	background-color: #0f0c0c;
+	text-align: center;
+	color: white;
+}
